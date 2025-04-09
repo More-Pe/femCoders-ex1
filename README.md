@@ -1,39 +1,42 @@
-<p align="center"> <img alt="logo de HTML5" src="./assets/HTML5-logo.png"></p>
-
-# BABY STEPS HMTL 5
-## 🏆 Objetivos
-
-- Introducir en el uso de las etiquetas de HTML5.
-
-## 🔧 Competencias técnicas
-
-- Maquetación web.
-
-## 🛠️ Herramientas
-
-- Visual Studio Code
-- HTML5
-
-## 🪜 Instrucciones
-
-### ✳️ 1. Manipulación de texto
-
-Replica la siguiente imagen haciendo uso de HTML5 y sus etiquetas semánticas.
-
 <p align="center">
-  <img alt="imagen de ejemplo" src="./assets/img-texto.png">
+  <img alt="HTML5 logo" src="./assets/HTML5-logo.png">
 </p>
 
-### ✳️ 2. Botones
+# BABY STEPS HTML 5
 
-Añade dos botones final del texto. Uno debe contener un icono de “like:👍” y otro de “dislike:👎”
+## 🏆 Objectives
 
-Añade un botón que se llame “salir” y nos envíe a la página web de FemCoders F5.
+- Introduction to using HTML5 tags.
 
-### ✳️ 3. Manipulación de texto
+## 🔧 Technical Skills
 
-Replica las siguientes listas haciendo uso de HTML5 y explora un poco CSS3.
+- Web layout and structure.
+
+## 🛠️ Tools
+
+- Visual Studio Code  
+- HTML5
+
+## 🪜 Instructions
+
+### ✳️ 1. Text Manipulation
+
+Recreate the following image using HTML5 and its semantic tags.
 
 <p align="center">
-  <img alt="listas de ejemplo" src="./assets/img-listas.png">
+  <img alt="example image" src="./assets/img-texto.png">
+</p>
+
+### ✳️ 2. Buttons
+
+Add two buttons at the end of the text. One should contain a “like: 👍” icon and the other a “dislike: 👎” icon.  
+
+Also, add a button labeled **"Exit"** that redirects to the [FemCoders F5 website](https://femcoders.org/).
+
+### ✳️ 3. List Manipulation
+
+Recreate the following lists using HTML5 and explore a bit of CSS3.
+
+<p align="center">
+  <img alt="example lists" src="./assets/img-listas.png">
 </p>
